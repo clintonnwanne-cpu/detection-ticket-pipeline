@@ -1,0 +1,17 @@
+test_audit (test_pipeline.PipelineTests) ... ok
+test_collision (test_pipeline.PipelineTests) ... ok
+test_create (test_pipeline.PipelineTests) ... ok
+test_duplicate (test_pipeline.PipelineTests) ... ok
+test_malformed (test_pipeline.PipelineTests) ... ok
+test_missing_owner_replay (test_pipeline.PipelineTests) ... ok
+test_naive_time (test_pipeline.PipelineTests) ... ok
+test_newer (test_pipeline.PipelineTests) ... ok
+test_non_object (test_pipeline.PipelineTests) ... ok
+test_out_of_order (test_pipeline.PipelineTests) ... ok
+test_retry (test_pipeline.PipelineTests) ... ok
+test_same_time (test_pipeline.PipelineTests) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.004s
+
+OK

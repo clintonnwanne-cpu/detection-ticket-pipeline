@@ -1,0 +1,18 @@
+[
+  {
+    "event_id": "demo-1",
+    "outcome": "created"
+  },
+  {
+    "event_id": "demo-1",
+    "outcome": "duplicate"
+  },
+  {
+    "event_id": "demo-0",
+    "outcome": "out_of_order"
+  },
+  {
+    "event_id": "malformed",
+    "outcome": "dead_letter"
+  }
+]
